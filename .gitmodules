@@ -1,3 +1,6 @@
 [submodule "External/JUCE"]
 	path = External/JUCE
 	url = git@github.com:cocotone/JUCE.git
+[submodule "External/choc"]
+	path = External/choc
+	url = git@github.com:cocotone/choc.git
